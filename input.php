@@ -335,7 +335,7 @@ end---
 								$("#submitButton").removeAttr("disabled");
 								// alert(data2);
 								// return false;
-//								findPrinter("ZPL");//calls the findprinter function passing the string "ZPL"
+								// findPrinter("ZPL");//calls the findprinter function passing the string "ZPL"
 								findPrinter("ZDesigner ZT220-200dpi");//calls the findprinter function passing the string "ZPL"
 								window.top.close();//calls the close function from the top window...or the index.php
 								document.getElementById("txtPoNum").value="";

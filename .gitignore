@@ -1,0 +1,39 @@
+# Documents / large generated files
+*.pdf
+*.xls
+*.xlsx
+*.xlsm
+*.xlsb
+*.csv
+*.doc
+*.docx
+*.ppt
+*.pptx
+
+# Archives
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# Database dumps / backups
+*.sql
+*.bak
+*.mdb
+*.accdb
+
+# Logs and temp files
+*.log
+*.tmp
+~$*
+Thumbs.db
+Desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Dependencies
+node_modules/
+vendor/
